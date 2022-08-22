@@ -1,6 +1,6 @@
 package com.example.reto_0;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.reto_0.ui.main.MainFragment;
